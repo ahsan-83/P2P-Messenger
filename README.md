@@ -1,9 +1,9 @@
-# P2P_Chat_Messenger
+# P2P Messenger
 
-P2P_Chat_Messenger is a LAN based P2P communication software. It is developed using
+P2P Messenger is a LAN based P2P communication software. It is developed using
 java jdk7.
 
-P2P Chat Messenger is a LAN chat messenger provides following features for devices connected to same LAN network.
+P2P Messenger is a LAN chat messenger provides following features for devices connected to same LAN network.
 * P2P Chat
 * P2P File Transfer
 * Add Friend
